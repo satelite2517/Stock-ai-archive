@@ -5,11 +5,15 @@
 - **Team name:** 자연스럽게만두추가  
 - **Team Members:** 신욱현, 이선재, 이지희
 
+---
+
 ### Project Overview
 
 This project provides a service that analyzes and summarizes overseas investor sentiments to assist domestic retail investors in making better investment decisions regarding foreign stocks. The service visually presents various indicators based on the reactions of overseas individual investors, offering a valuable tool for those looking to invest in international markets.
 
 <img src="/images/Untitled.png"  width="300">
+
+---
 
 ### Problem Awareness
 
@@ -18,6 +22,8 @@ This project provides a service that analyzes and summarizes overseas investor s
 
 2. **Lack of Information on Foreign Stocks**  
    Domestic investors have limited tools and information when investing in foreign stocks. Unlike domestic stocks, where sentiment and data are more readily available, it is challenging to gauge global investor sentiment for foreign stocks. This service addresses that gap by summarizing opinions from international investors.
+
+---
 
 ### Service Features
 
@@ -49,6 +55,8 @@ This project provides a service that analyzes and summarizes overseas investor s
    | Nvidia | 1283 | 63397 |
    | Tesla | 919 | 48268 |
 
+---
+
 ### Data Collection and Analysis
 
 - **Data Sources:**  
@@ -77,11 +85,6 @@ This project provides a service that analyzes and summarizes overseas investor s
 
 - Due to limitations in data availability, the current version only covers a limited number of high-market-cap stocks. Expanding data coverage is essential for further improvement.
 - Bias in data collection, influenced by specific community user characteristics, requires further adjustment and correction.
-
----
-
-This service provides M-Stock users with valuable and easy-to-understand insights based on overseas individual investor sentiment, ultimately enhancing the investment decisions of domestic retail investors in the international stock market.
-
 
 ---
 
