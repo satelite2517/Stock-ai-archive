@@ -64,13 +64,13 @@ This project provides a service that analyzes and summarizes overseas investor s
 
 1. **Time Series Analysis of Investor Sentiment and Volatility**  
    Future iterations will aim to provide sentiment scores on a daily or hourly basis, offering better insight into volatility and sentiment changes over time.
-   <p align="center">
-      <img src="/images/Frame%203-2.png" width="250" />
-      <img src="/images/Frame%204-1.png" width="250" />
+   <p align="left">
+      <img src="/images/Frame%203-2.png" width="300" style="margin-right: 20px;"/>
+      <img src="/images/Frame%204-1.png" width="300" />
    </p>
 
 2. **Correlation Analysis Between Sentiment and Stock Price**  
-   By analyzing the time-lagged relationship between sentiment and stock price, the service can offer more reliable information for predicting stock movements.|
+   By analyzing the time-lagged relationship between sentiment and stock price, the service can offer more reliable information for predicting stock movements.    
    <img src="/images/Frame 5.png" width="250" />
 
 ### Limitations and Considerations
