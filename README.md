@@ -68,6 +68,8 @@ This project provides a service that analyzes and summarizes overseas investor s
 - **Sentiment Analysis:**  
   Transformer models were used to conduct sentiment analysis, categorizing opinions as positive or negative and extracting key insights from these comments.
 
+---
+
 ### Future Improvements
 
 1. **Time Series Analysis of Investor Sentiment and Volatility**  
@@ -80,6 +82,8 @@ This project provides a service that analyzes and summarizes overseas investor s
 2. **Correlation Analysis Between Sentiment and Stock Price**  
    By analyzing the time-lagged relationship between sentiment and stock price, the service can offer more reliable information for predicting stock movements.    
    <img src="/images/Frame 5.png" width="250" />
+
+---
 
 ### Limitations and Considerations
 
