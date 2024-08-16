@@ -9,7 +9,7 @@
 
 This project provides a service that analyzes and summarizes overseas investor sentiments to assist domestic retail investors in making better investment decisions regarding foreign stocks. The service visually presents various indicators based on the reactions of overseas individual investors, offering a valuable tool for those looking to invest in international markets.
 
-<img src="/images/Untitled.png"  width="150">
+<img src="/images/Untitled.png"  width="300">
 
 ### Problem Awareness
 
@@ -24,7 +24,7 @@ This project provides a service that analyzes and summarizes overseas investor s
 1. **Comparison of Investor Sentiment and Actual Performance**  
    The service scores the sentiment of international investors, allowing users to compare these scores with the actual performance of the stock during the same periods.
 
-   <img src="/images/Sentiment_ex.png"  width="150">
+   <img src="/images/Sentiment_ex.png">
 
 2. **Summary of Positive and Negative Sentiments**  
    The service provides a graphical representation of the proportion of positive and negative sentiments, along with concise summaries of key reactions.
@@ -64,11 +64,14 @@ This project provides a service that analyzes and summarizes overseas investor s
 
 1. **Time Series Analysis of Investor Sentiment and Volatility**  
    Future iterations will aim to provide sentiment scores on a daily or hourly basis, offering better insight into volatility and sentiment changes over time.
-   ![im](/images/Frame%203-2.png) ![im2](/images/Frame%204-1.png)
+   <p align="center">
+      <img src="/images/Frame%203-2.png" width="250" />
+      <img src="/images/Frame%204-1.png" width="250" />
+   </p>
 
 2. **Correlation Analysis Between Sentiment and Stock Price**  
    By analyzing the time-lagged relationship between sentiment and stock price, the service can offer more reliable information for predicting stock movements.|
-   ![im3](/images/Frame%205.png)
+   <img src="/images/Frame 5.png" width="250" />
 
 ### Limitations and Considerations
 
