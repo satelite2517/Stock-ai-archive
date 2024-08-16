@@ -20,13 +20,32 @@ This project provides a service that analyzes and summarizes overseas investor s
 ### Service Features
 
 1. **Comparison of Investor Sentiment and Actual Performance**  
-   The service scores the sentiment of international investors on a scale from -100 to 100 for both the past month and the past three months, allowing users to compare these scores with the actual performance of the stock during the same periods.
+   The service scores the sentiment of international investors, allowing users to compare these scores with the actual performance of the stock during the same periods.
+
+   [!image](/images/Sentiment_ex.png)
 
 2. **Summary of Positive and Negative Sentiments**  
    The service provides a graphical representation of the proportion of positive and negative sentiments, along with concise summaries of key reactions.
 
+   | 종목명 | 긍정평가 | 부정평가 |
+   | --- | --- | --- |
+   | TSLA | Enthusiastic reception for the new Model X and Model Y updates, and strong confidence in Tesla's innovations in FSD and battery technology. | Owners are expressing frustration with the Model S's quality issues, frequent recalls, and declining resale value / Many users find the Model S overpriced for its features and performance compared to other electric vehicles. |
+   | AAPL | Exciting advancements: anticipation for foldable iPhone / Insightful and dynamic tech reviews help users understand new innovations | People are disappointed with the lack of meaningful updates in the new iPad Pro, making jokes about basic features finally arriving years late / Users feel frustrated with Apple's focus on making devices thinner instead of improving battery life and functionality. |
+   | META | Investors are confident about the company's long-term potential and its investments in AI and VR technology. / People are excited about the advancements and upcoming releases, such as Meta Quest 3. | People are frustrated with Meta's ad algorithms and overall declining advertisement efficiency. / Users voice concerns about Meta's VR products and the company's overall direction, viewing it critically. |
+   | MSFT | People are consistently supportive and optimistic about Microsoft's long-term growth and reliability / Investors show appreciation and confidence in Microsoft’s consistent performance and growth trajectory. | Users are concerned that the company’s acquisitions and strategies are not yielding expected returns and feel there will be long term issues despite AI advancements. / Many users have contested that Microsoft's performance and decisions seem overrated, pointing to failed acquisitions and questioning the company's overall direction. 
+
 3. **Mentions in News Articles**  
    The number of times the stock is mentioned in news articles is compared against the S&P 500 average, providing additional context regarding investor interest and information availability.
+
+   | 종목명 | 하루 동안의 뉴스 기사 수 | 1개월 동안의 뉴스 기사 수 |
+   | --- | --- | --- |
+   | Alphabet | 3359 | 188720 |
+   | Amazon | 1069 | 75654 |
+   | Apple | 719 | 94916 |
+   | Meta | 1902 | 91105 |
+   | Microsoft | 2098 | 123963 |
+   | Nvidia | 1283 | 63397 |
+   | Tesla | 919 | 48268 |
 
 ### Data Collection and Analysis
 
@@ -45,7 +64,7 @@ This project provides a service that analyzes and summarizes overseas investor s
    Future iterations will aim to provide sentiment scores on a daily or hourly basis, offering better insight into volatility and sentiment changes over time.
 
 2. **Correlation Analysis Between Sentiment and Stock Price**  
-   By analyzing the time-lagged relationship between sentiment and stock price, the service can offer more reliable information for predicting stock movements.
+   By analyzing the time-lagged relationship between sentiment and stock price, the service can offer more reliable information for predicting stock movements.|
 
 ### Limitations and Considerations
 
