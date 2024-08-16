@@ -64,6 +64,6 @@ This service provides M-Stock users with valuable and easy-to-understand insight
 
 ---
 
-This project was done for the Big data AI festival hold by 미래에셋 자산증권
+This project was done for the Big data AI festival hold by 미래에셋 자산증권.  
 [Project link](https://miraeassetfesta.com/)  
 [Project Report](https://quick-climb-d69.notion.site/2480e8f5cc024cbab6fab8ab2ae0521e)
